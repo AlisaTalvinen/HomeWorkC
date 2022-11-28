@@ -1,0 +1,15 @@
+C:\Users\Alice\Documents\Учеба на IT\04 знакомство с языками программирования\HomeWork\HW4\obj\MCD\Debug\net6.0\HW4.csproj.AssemblyReference.cache
+C:\Users\Alice\Documents\Учеба на IT\04 знакомство с языками программирования\HomeWork\HW4\obj\MCD\Debug\net6.0\HW4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alice\Documents\Учеба на IT\04 знакомство с языками программирования\HomeWork\HW4\obj\MCD\Debug\net6.0\HW4.AssemblyInfoInputs.cache
+C:\Users\Alice\Documents\Учеба на IT\04 знакомство с языками программирования\HomeWork\HW4\obj\MCD\Debug\net6.0\HW4.AssemblyInfo.cs
+C:\Users\Alice\Documents\Учеба на IT\04 знакомство с языками программирования\HomeWork\HW4\obj\MCD\Debug\net6.0\HW4.csproj.CoreCompileInputs.cache
+C:\Users\Alice\Documents\Учеба на IT\04 знакомство с языками программирования\HomeWork\HW4\bin\MCD\Debug\net6.0\HW4.exe
+C:\Users\Alice\Documents\Учеба на IT\04 знакомство с языками программирования\HomeWork\HW4\bin\MCD\Debug\net6.0\HW4.deps.json
+C:\Users\Alice\Documents\Учеба на IT\04 знакомство с языками программирования\HomeWork\HW4\bin\MCD\Debug\net6.0\HW4.runtimeconfig.json
+C:\Users\Alice\Documents\Учеба на IT\04 знакомство с языками программирования\HomeWork\HW4\bin\MCD\Debug\net6.0\HW4.dll
+C:\Users\Alice\Documents\Учеба на IT\04 знакомство с языками программирования\HomeWork\HW4\bin\MCD\Debug\net6.0\HW4.pdb
+C:\Users\Alice\Documents\Учеба на IT\04 знакомство с языками программирования\HomeWork\HW4\obj\MCD\Debug\net6.0\HW4.dll
+C:\Users\Alice\Documents\Учеба на IT\04 знакомство с языками программирования\HomeWork\HW4\obj\MCD\Debug\net6.0\refint\HW4.dll
+C:\Users\Alice\Documents\Учеба на IT\04 знакомство с языками программирования\HomeWork\HW4\obj\MCD\Debug\net6.0\HW4.pdb
+C:\Users\Alice\Documents\Учеба на IT\04 знакомство с языками программирования\HomeWork\HW4\obj\MCD\Debug\net6.0\HW4.genruntimeconfig.cache
+C:\Users\Alice\Documents\Учеба на IT\04 знакомство с языками программирования\HomeWork\HW4\obj\MCD\Debug\net6.0\ref\HW4.dll
